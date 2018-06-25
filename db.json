@@ -1,33 +1,33 @@
 {
-        'order': {
-            'type': 'AU',
-            'number': '0010',
-            'customer': 'CUS-001 (1/3)',
-            'BIN': 'AURH',
-            'ETA': '2018-05-18',
-            'status': 'white',
+        "order": {
+            "type": "AU",
+            "number": "0010",
+            "customer": "CUS-001 (1/3)",
+            "BIN": "AURH",
+            "ETA": "2018-05-18",
+            "status": "white",
         },
-        'productions': {
-            '2018-06-04': {
-                'A': true,
-                'P': true,
-                'MS': false,
-                'PF': false,
-                'IB': false,
+        "productions": {
+            "2018-06-04": {
+                "A": true,
+                "P": true,
+                "MS": false,
+                "PF": false,
+                "IB": false,
             },
-            '2018-06-11': {
-                'A': false,
-                'P': false,
-                'MS': true,
-                'PF': true,
-                'IB': false,
+            "2018-06-11": {
+                "A": false,
+                "P": false,
+                "MS": true,
+                "PF": true,
+                "IB": false,
             },
         },
-        'progress': {
-            'A': 100,
-            'P': 0,
-            'MS': 0,
-            'PF': 0,
-            'IB': 0,
+        "progress": {
+            "A": 100,
+            "P": 0,
+            "MS": 0,
+            "PF": 0,
+            "IB": 0,
         },
     }
