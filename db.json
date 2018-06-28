@@ -1,6 +1,7 @@
 {
         "orders": [
                 {
+                        "id": 1,
                         "order": {
                             "type": "AU",
                             "number": "0010",
@@ -34,6 +35,7 @@
                         }
                 },
                 {
+                        "id": 2,
                         "order": {
                             "type": "BU",
                             "number": "0011",
@@ -67,6 +69,7 @@
                         }
                 },
                 {
+                        "id": 3,
                         "order": {
                             "type": "CU",
                             "number": "0012",
