@@ -113,7 +113,7 @@
                         "distributor": "SAUNDERS EQUIPMENT LTD",
                         "customer": "CUS-001 (1/3)",
                         "noSaleOrder": "123805",
-                        "noVarient": "75999",
+                        "noVariant": "75999",
                         "noProject": "300999",
                         "progress": 20
                 },
@@ -126,7 +126,7 @@
                     "distributor": "JOE JOHNSON EQUIPMENT LTD",
                     "customer": "CUS-002 (1/2)",
                     "noSaleOrder": "123221",
-                    "noVarient": "75228",
+                    "noVariant": "75228",
                     "noProject": "300228",
                     "progress": 100
                 },
@@ -139,7 +139,7 @@
                     "distributor": "MAQUEEN EQUIPMENT INC",
                     "customer": "CUS-003 (1/3)",
                     "noSaleOrder": "123835",
-                    "noVarient": "75336",
+                    "noVariant": "75336",
                     "noProject": "300336",
                     "progress": 90
             }
