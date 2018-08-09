@@ -142,7 +142,33 @@
                     "noVariant": "75336",
                     "noProject": "300336",
                     "progress": 90
-            }
+                },
+                {
+                    "id": 4,
+                    "type": "peinture",
+                    "productType": "COMPA",
+                    "binType": "EXBH",
+                    "number": "924107",
+                    "distributor": "MAQUEEN EQUIPMENT INC",
+                    "customer": "CUS-003 (2/3)",
+                    "noSaleOrder": "123856",
+                    "noVariant": "75555",
+                    "noProject": "300447",
+                    "progress": 100
+                },
+                {
+                    "id": 5,
+                    "type": "installation benne",
+                    "productType": "AUTOMIZER",
+                    "binType": "EXBH",
+                    "number": "924225",
+                    "distributor": "REPUBLIC SERVICES INC",
+                    "customer": "CUS-003 (3/3)",
+                    "noSaleOrder": "123543",
+                    "noVariant": "75678",
+                    "noProject": "301983",
+                    "progress": 50
+                }
         ],
         "profile": {
                 "name": "typicode"
