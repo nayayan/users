@@ -180,7 +180,7 @@
                     "noSaleOrder": "124453",
                     "noVariant": "75558",
                     "noProject": "301555",
-                    "progress": 0
+                    "progress": 10
                 },
                 {
                     "id": 7,
@@ -194,6 +194,19 @@
                     "noVariant": "74560",
                     "noProject": "328763",
                     "progress": 25
+                },
+                {
+                    "id": 8,
+                    "type": "peinture",
+                    "productType": "MINI",
+                    "binType": "MXGH",
+                    "number": "920097",
+                    "distributor": "AUTO SERVICES ENR",
+                    "customer": "CUS-008 (1/2)",
+                    "noSaleOrder": "100032",
+                    "noVariant": "75501",
+                    "noProject": "301002",
+                    "progress": 75
                 }
         ],
         "profile": {
