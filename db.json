@@ -168,6 +168,32 @@
                     "noVariant": "75678",
                     "noProject": "301983",
                     "progress": 50
+                },
+                {
+                    "id": 6,
+                    "type": "assemblage",
+                    "productType": "AUTOMIZER",
+                    "binType": "EXAA",
+                    "number": "925542",
+                    "distributor": "AUTO SERVICES ENR",
+                    "customer": "CUS-004 (1/1)",
+                    "noSaleOrder": "124453",
+                    "noVariant": "75558",
+                    "noProject": "301555",
+                    "progress": 0
+                },
+                {
+                    "id": 7,
+                    "type": "assemblage",
+                    "productType": "TS",
+                    "binType": "AAHB",
+                    "number": "927776",
+                    "distributor": "BIN SERVICES ENR",
+                    "customer": "CUS-005 (1/1)",
+                    "noSaleOrder": "129034",
+                    "noVariant": "74560",
+                    "noProject": "328763",
+                    "progress": 25
                 }
         ],
         "profile": {
