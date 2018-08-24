@@ -106,6 +106,7 @@
         "productions": [
                 {
                         "id": 1,
+                        "company": 100,
                         "type": "assemblage",
                         "productType": "MINI",
                         "binType": "MXMH",
@@ -119,6 +120,7 @@
                 },
                 {
                     "id": 2,
+                    "company": 100,
                     "type": "assemblage",
                     "productType": "TS",
                     "binType": "TS",
@@ -132,6 +134,7 @@
                 },
                 {
                     "id": 3,
+                    "company": 100,
                     "type": "peinture",
                     "productType": "EXPERT",
                     "binType": "EXAH",
@@ -145,6 +148,7 @@
                 },
                 {
                     "id": 4,
+                    "company": 100,
                     "type": "peinture",
                     "productType": "COMPA",
                     "binType": "EXBH",
@@ -158,6 +162,7 @@
                 },
                 {
                     "id": 5,
+                    "company": 200,
                     "type": "installation benne",
                     "productType": "AUTOMIZER",
                     "binType": "EXBH",
@@ -171,6 +176,7 @@
                 },
                 {
                     "id": 6,
+                    "company": 200,
                     "type": "assemblage",
                     "productType": "AUTOMIZER",
                     "binType": "EXAA",
@@ -184,6 +190,7 @@
                 },
                 {
                     "id": 7,
+                    "company": 200,
                     "type": "assemblage",
                     "productType": "TS",
                     "binType": "AAHB",
@@ -197,6 +204,7 @@
                 },
                 {
                     "id": 8,
+                    "company": 200,
                     "type": "peinture",
                     "productType": "MINI",
                     "binType": "MXGH",
