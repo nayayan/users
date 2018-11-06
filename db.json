@@ -1,5 +1,33 @@
 {
-        "orders": [
+        "users":
+        [
+                {
+                        "id": 888,
+                        "name": "Yan Boucher Bouchard",
+                        "company": "Globe Technologie",
+                        "authority": [ "admin" ]
+                },
+                {
+                        "id": 123,
+                        "name": "Jean Côté",
+                        "company": "Béton Chevalier",
+                        "authority": [ "user", "buyer" ]
+                },
+                {
+                        "id": 321,
+                        "name": "Jeanne Tremblay",
+                        "company": "Béton JFK",
+                        "authority": [ "user", "seller" ]
+                },
+                {
+                        "id": 000,
+                        "name": "Jeanne Tremblay",
+                        "company": "Béton JFK",
+                        "authority": [ "guest", "buyer" ]
+                }
+        ],
+        "orders":
+        [
                 {
                         "id": 1,
                         "order": {
@@ -103,7 +131,8 @@
                         }
                 }
         ],
-        "productions": [
+        "productions":
+        [
                 {
                         "id": 1,
                         "company": 100,
@@ -217,7 +246,8 @@
                     "progress": 75
                 }
         ],
-        "profile": {
+        "profile":
+        {
                 "name": "typicode"
         }
     }
