@@ -5,25 +5,25 @@
                         "id": 888,
                         "name": "Yan Boucher Bouchard",
                         "company": "Globe Technologie",
-                        "authority": [ "admin" ]
+                        "authority": "developpeur"
                 },
                 {
                         "id": 123,
                         "name": "Jean Côté",
                         "company": "Béton Chevalier",
-                        "authority": [ "user", "buyer" ]
+                        "authority": "acheteur"
                 },
                 {
                         "id": 321,
                         "name": "Jeanne Tremblay",
                         "company": "Béton JFK",
-                        "authority": [ "user", "seller" ]
+                        "authority": "vendeur"
                 },
                 {
                         "id": 111,
                         "name": "Jeanne Tremblay",
                         "company": "Béton JFK",
-                        "authority": [ "guest", "buyer" ]
+                        "authority": "invité"
                 }
         ],
         "orders":
