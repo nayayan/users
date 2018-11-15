@@ -1,25 +1,25 @@
 {
-        "customers":
+        "list":
         [
                 {
                         "id": 1,
-                        "name": "CUS 1"
+                        "name": "Élément de liste 1"
                 },
                 {
                         "id": 2,
-                        "name": "CUS 2"
+                        "name": "Élément de liste 2"
                 },
                 {
                         "id": 3,
-                        "name": "CUS 3"
+                        "name": "Élément de liste 3"
                 },
                 {
                         "id": 4,
-                        "name": "CUS 4"
+                        "name": "Élément de liste 4"
                 },
                 {
                         "id": 5,
-                        "name": "CUS 5"
+                        "name": "Élément de liste 5"
                 }
         ],
         "users":
