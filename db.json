@@ -3,50 +3,50 @@
         [
                 {
                         "id": 1,
-                        "name": "Élément de liste 1",
                         "categories":
                         [
                                 "android",
                                 "apple"
-                        ]
+                        ],
+                        "name": "Élément de liste 1"
                 },
                 {
                         "id": 2,
-                        "name": "Élément de liste 2",
                         "categories":
                         [
                                 "android"
-                        ]
+                        ],
+                        "name": "Élément de liste 2"
                 },
                 {
                         "id": 3,
-                        "name": "Élément de liste 3",
                         "categories":
                         [
                                 "android",
                                 "apple",
                                 "windows"
-                        ]
+                        ],
+                        "name": "Élément de liste 3"
                 },
                 {
                         "id": 4,
-                        "name": "Élément de liste 4"
                         "categories":
                         [
                                 "android",
                                 "apple",
                                 "windows",
                                 "chrome"
-                        ]
+                        ],
+                        "name": "Élément de liste 4"
                 },
                 {
                         "id": 5,
-                        "name": "Élément de liste 5",
                         "categories":
                         [
                                 "android",
                                 "chrome"
-                        ]
+                        ],
+                        "name": "Élément de liste 5"
                 }
         ],
         "users":
