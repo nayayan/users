@@ -1,51 +1,75 @@
 {
+        "categories":
+        [
+                {
+                        "id": 1,
+                        "name": "Catégorie 1",
+                        "icon": "http://placehold.jp/24/006699/cccc00/100x100.png?text=C1"
+                },
+                {
+                        "id": 2,
+                        "name": "Catégorie 2",
+                        "icon": "http://placehold.jp/24/005699/ccc200/100x100.png?text=C2"
+                },
+                {
+                        "id": 3,
+                        "name": "Catégorie 3",
+                        "icon": "http://placehold.jp/24/006693/c5cc00/100x100.png?text=C3"
+                },
+                {
+                        "id": 4,
+                        "name": "Catégorie 4",
+                        "icon": "http://placehold.jp/24/056693/25cc00/100x100.png?text=C4"
+                }
+        ],
+        "providers":
+        [
+                {
+                        "id": 1,
+                        "name": "Fournisseur 1",
+                        "icon": "http://placehold.jp/24/cc9999/993333/100x100.png?text=P1"
+                },
+                {
+                        "id": 2,
+                        "name": "Fournisseur 2",
+                        "icon": "http://placehold.jp/24/cc7999/993833/100x100.png?text=P2"
+                },
+                {
+                        "id": 3,
+                        "name": "Fournisseur 3",
+                        "icon": "http://placehold.jp/24/cd9999/923833/100x100.png?text=P3"
+                }
+        ],
         "list":
         [
                 {
                         "id": 1,
-                        "categories":
-                        [
-                                "android",
-                                "apple"
-                        ],
+                        "category": 1,
+                        "provider": 2,
                         "name": "Élément de liste 1"
                 },
                 {
                         "id": 2,
-                        "categories":
-                        [
-                                "android"
-                        ],
+                        "category": 2,
+                        "provider": 1,
                         "name": "Élément de liste 2"
                 },
                 {
                         "id": 3,
-                        "categories":
-                        [
-                                "android",
-                                "apple",
-                                "windows"
-                        ],
+                        "category": 2,
+                        "provider": 2,
                         "name": "Élément de liste 3"
                 },
                 {
                         "id": 4,
-                        "categories":
-                        [
-                                "android",
-                                "apple",
-                                "windows",
-                                "chrome"
-                        ],
+                        "category": 3,
+                        "provider": 1,
                         "name": "Élément de liste 4"
                 },
                 {
                         "id": 5,
-                        "categories":
-                        [
-                                "android",
-                                "chrome"
-                        ],
+                        "category": 4,
+                        "provider": 3,
                         "name": "Élément de liste 5"
                 }
         ],
