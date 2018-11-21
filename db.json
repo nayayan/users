@@ -3,23 +3,50 @@
         [
                 {
                         "id": 1,
-                        "name": "Élément de liste 1"
+                        "name": "Élément de liste 1",
+                        "categories":
+                        [
+                                "android",
+                                "apple"
+                        ]
                 },
                 {
                         "id": 2,
-                        "name": "Élément de liste 2"
+                        "name": "Élément de liste 2",
+                        "categories":
+                        [
+                                "android"
+                        ]
                 },
                 {
                         "id": 3,
-                        "name": "Élément de liste 3"
+                        "name": "Élément de liste 3",
+                        "categories":
+                        [
+                                "android",
+                                "apple",
+                                "windows"
+                        ]
                 },
                 {
                         "id": 4,
                         "name": "Élément de liste 4"
+                        "categories":
+                        [
+                                "android",
+                                "apple",
+                                "windows",
+                                "chrome"
+                        ]
                 },
                 {
                         "id": 5,
-                        "name": "Élément de liste 5"
+                        "name": "Élément de liste 5",
+                        "categories":
+                        [
+                                "android",
+                                "chrome"
+                        ]
                 }
         ],
         "users":
