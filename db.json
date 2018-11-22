@@ -4,22 +4,22 @@
                 "categories":
                 [
                         {
-                                "value": 1,
+                                "value": "1",
                                 "text": "Catégorie 1",
                                 "icon": "http://placehold.jp/24/006699/cccc00/50x50.png?text=C1"
                         },
                         {
-                                "value": 2,
+                                "value": "2",
                                 "text": "Catégorie 2",
                                 "icon": "http://placehold.jp/24/005699/ccc200/50x50.png?text=C2"
                         },
                         {
-                                "value": 3,
+                                "value": "3",
                                 "text": "Catégorie 3",
                                 "icon": "http://placehold.jp/24/006693/c5cc00/50x50.png?text=C3"
                         },
                         {
-                                "value": 4,
+                                "value": "4",
                                 "text": "Catégorie 4",
                                 "icon": "http://placehold.jp/24/056693/25cc00/50x50.png?text=C4"
                         }
@@ -27,17 +27,17 @@
                 "providers":
                 [
                         {
-                                "value": 1,
+                                "value": "1",
                                 "text": "Fournisseur 1",
                                 "icon": "http://placehold.jp/24/cc9999/993333/50x50.png?text=P1"
                         },
                         {
-                                "value": 2,
+                                "value": "2",
                                 "text": "Fournisseur 2",
                                 "icon": "http://placehold.jp/24/cc7999/993833/50x50.png?text=P2"
                         },
                         {
-                                "value": 3,
+                                "value": "3",
                                 "text": "Fournisseur 3",
                                 "icon": "http://placehold.jp/24/cd9999/923833/50x50.png?text=P3"
                         }
@@ -47,32 +47,32 @@
         [
                 {
                         "id": 1,
-                        "category": 1,
-                        "provider": 2,
+                        "category": "1",
+                        "provider": "2",
                         "name": "Élément de liste 1"
                 },
                 {
                         "id": 2,
-                        "category": 2,
-                        "provider": 1,
+                        "category": "2",
+                        "provider": "1",
                         "name": "Élément de liste 2"
                 },
                 {
                         "id": 3,
-                        "category": 2,
-                        "provider": 2,
+                        "category": "2",
+                        "provider": "2",
                         "name": "Élément de liste 3"
                 },
                 {
                         "id": 4,
-                        "category": 3,
-                        "provider": 1,
+                        "category": "3",
+                        "provider": "1",
                         "name": "Élément de liste 4"
                 },
                 {
                         "id": 5,
-                        "category": 4,
-                        "provider": 3,
+                        "category": "4",
+                        "provider": "3",
                         "name": "Élément de liste 5"
                 }
         ],
