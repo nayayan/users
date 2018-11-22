@@ -4,22 +4,22 @@
                 "categories":
                 [
                         {
-                                "id": 1,
+                                "value": 1,
                                 "name": "Catégorie 1",
                                 "icon": "http://placehold.jp/24/006699/cccc00/50x50.png?text=C1"
                         },
                         {
-                                "id": 2,
+                                "value": 2,
                                 "name": "Catégorie 2",
                                 "icon": "http://placehold.jp/24/005699/ccc200/50x50.png?text=C2"
                         },
                         {
-                                "id": 3,
+                                "value": 3,
                                 "name": "Catégorie 3",
                                 "icon": "http://placehold.jp/24/006693/c5cc00/50x50.png?text=C3"
                         },
                         {
-                                "id": 4,
+                                "value": 4,
                                 "name": "Catégorie 4",
                                 "icon": "http://placehold.jp/24/056693/25cc00/50x50.png?text=C4"
                         }
@@ -27,17 +27,17 @@
                 "providers":
                 [
                         {
-                                "id": 1,
+                                "value": 1,
                                 "name": "Fournisseur 1",
                                 "icon": "http://placehold.jp/24/cc9999/993333/50x50.png?text=P1"
                         },
                         {
-                                "id": 2,
+                                "value": 2,
                                 "name": "Fournisseur 2",
                                 "icon": "http://placehold.jp/24/cc7999/993833/50x50.png?text=P2"
                         },
                         {
-                                "id": 3,
+                                "value": 3,
                                 "name": "Fournisseur 3",
                                 "icon": "http://placehold.jp/24/cd9999/923833/50x50.png?text=P3"
                         }
