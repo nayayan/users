@@ -4,22 +4,22 @@
                 {
                         "id": 1,
                         "name": "Catégorie 1",
-                        "icon": "http://placehold.jp/24/006699/cccc00/100x100.png?text=C1"
+                        "icon": "http://placehold.jp/24/006699/cccc00/25x25.png?text=C1"
                 },
                 {
                         "id": 2,
                         "name": "Catégorie 2",
-                        "icon": "http://placehold.jp/24/005699/ccc200/100x100.png?text=C2"
+                        "icon": "http://placehold.jp/24/005699/ccc200/25x25.png?text=C2"
                 },
                 {
                         "id": 3,
                         "name": "Catégorie 3",
-                        "icon": "http://placehold.jp/24/006693/c5cc00/100x100.png?text=C3"
+                        "icon": "http://placehold.jp/24/006693/c5cc00/25x25.png?text=C3"
                 },
                 {
                         "id": 4,
                         "name": "Catégorie 4",
-                        "icon": "http://placehold.jp/24/056693/25cc00/100x100.png?text=C4"
+                        "icon": "http://placehold.jp/24/056693/25cc00/25x25.png?text=C4"
                 }
         ],
         "providers":
@@ -27,17 +27,17 @@
                 {
                         "id": 1,
                         "name": "Fournisseur 1",
-                        "icon": "http://placehold.jp/24/cc9999/993333/100x100.png?text=P1"
+                        "icon": "http://placehold.jp/24/cc9999/993333/25x25.png?text=P1"
                 },
                 {
                         "id": 2,
                         "name": "Fournisseur 2",
-                        "icon": "http://placehold.jp/24/cc7999/993833/100x100.png?text=P2"
+                        "icon": "http://placehold.jp/24/cc7999/993833/25x25.png?text=P2"
                 },
                 {
                         "id": 3,
                         "name": "Fournisseur 3",
-                        "icon": "http://placehold.jp/24/cd9999/923833/100x100.png?text=P3"
+                        "icon": "http://placehold.jp/24/cd9999/923833/25x25.png?text=P3"
                 }
         ],
         "list":
